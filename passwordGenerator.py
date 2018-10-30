@@ -19,3 +19,5 @@ pass_len1 = len(password1)
 pass_len2 = len(password2)
 print('Number of characters in %s: %i' % (password1, pass_len1))
 print('Number of characters in %s: %i' % (password2, pass_len2))
+
+
