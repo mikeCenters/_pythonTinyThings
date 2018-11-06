@@ -9,8 +9,8 @@ class Expenses:
         self.vehiclePayment = 630.00
         self.electric_gas = 130.00
         self.internet = 90.00
-        self.cellPhone = 50.00
-        self.water = 20.00
+        self.cellPhone = 60.00
+        self.water = 25.00
         self.carInsurance = 120.00
 
         self.expenses = [self.rent,
