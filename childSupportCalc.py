@@ -100,10 +100,10 @@ basicObligationTable = { # Will need to implement this dictionary to automate lo
 '''
 
 partyARate = 13.75
-partyAHours = [60, 60]
+partyAHours = [48, 72]
 
-partyBRate = 7.25
-partyBHours = [32, 32]
+partyBRate = 7.60
+partyBHours = [40, 40]
 
 partyAOvernights = 182.5
 partyBOvernights = 182.5
